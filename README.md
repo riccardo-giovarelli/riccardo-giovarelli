@@ -11,8 +11,7 @@ I wrote my first software when I was twelve with MS-DOS QBasic, the only program
 Now I have a bachelor's degree in Computer Science and I'm a professional Full Stack developer but, every time I open my laptop, I feel like the same 12 years old boy that turn on his first pc years ago. Same enthusiasm and curiosity, just more experience.
 
 ## :mailbox_closed: Contacts
-[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riccardo-giovarelli) [![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ric_giovarelli/) [![form](https://img.shields.io/badge/Contact_Form-CA6201.svg?logo=googleforms&logoColor=white)](https://form.jotform.com/240087290892361)
-
+[![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riccardo-giovarelli) [![instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/ric_giovarelli/)
 
 
 
